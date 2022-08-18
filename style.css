@@ -38,7 +38,6 @@
   padding: 8px 8px;
 }
 
-/* Banner-section */
 
 .banner-container {
   display: grid;
@@ -54,7 +53,6 @@
 .heading-text {
   font-size: 3.3rem;
   font-weight: 600;
-  /* color: rgb(63, 58, 92); */
   line-height: 1;
 }
 
@@ -83,7 +81,6 @@ span {
   color: #ffffff;
 }
 
-/* Banner-section-2 */
 
 .banner-container-2 {
   display: grid;
@@ -97,7 +94,6 @@ span {
   margin-bottom: 2rem;
 }
 
-/* Banner-container-3 */
 
 .banner-container-3 {
   display: grid;
@@ -111,7 +107,6 @@ span {
   width: 100%;
 }
 
-/* Service-section */
 
 .sevices-section {
   display: flex;
@@ -135,8 +130,6 @@ span {
 .card {
   margin-right: 3rem;
 }
-
-/* Flexible-section */
 
 .flex-container {
   height: 100vh;
@@ -216,8 +209,6 @@ span {
   background-color: transparent;
 }
 
-/*----- Coustmer-section----- */
-
 .customer-head {
   margin-left: 20rem;
   margin-top: 6rem;
@@ -251,7 +242,6 @@ span {
   line-height: 0.7;
 }
 
-/* ---Hosting-part --*/
 .hosting {
   height: 50vh;
   background-color: rgb(61, 61, 220);
@@ -278,7 +268,6 @@ span {
   border-radius: 5px;
 }
 
-/* --Footer-Section-- */
 .footer-section {
   display: flex;
   margin-top: 3rem;
